@@ -1,4 +1,4 @@
-# Hi, I’m Sumit Verma! 🚀  
+# Hi, I’m Solocoder 🚀  
 **B.Tech Student | Full-Stack Developer | Tech Explorer**
 
 Building powerful, scalable, and user-friendly applications across the web and mobile platforms.
@@ -68,9 +68,7 @@ A few things I am building:
  ---
 
 ## 📬 Let’s Connect
-
-📎 [LinkedIn](https://www.linkedin.com/in/sumitverma04/)  
-✉️ [Email](sumitverma.aiml@gmail.com)
+ 
 
 ---
 
